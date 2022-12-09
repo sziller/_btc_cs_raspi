@@ -4,6 +4,6 @@ Type=Application
 Encoding=UTF-8
 Comment=Signing app for the Sallet ColdStorage system
 Icon=/home/sziller/Projects/011_Bitcoin/_btc_cs_raspi/icons/SalletHEAD_icon.png
-Exec=python3 /home/sziller/Projects/011_Bitcoin/_btc_cs_desktop/App_SalletHead.py True
+Exec=python3 /home/sziller/Projects/011_Bitcoin/_btc_cs_raspi/App_SalletHead.py True
 Terminal=true
 Name[en_GB]=SalletHead
